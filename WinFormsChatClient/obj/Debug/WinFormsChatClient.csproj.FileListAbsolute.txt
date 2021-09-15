@@ -1,0 +1,10 @@
+A:\Projects\WinFormsChatClient\WinFormsChatClient\bin\Debug\WinFormsChatClient.exe.config
+A:\Projects\WinFormsChatClient\WinFormsChatClient\bin\Debug\WinFormsChatClient.exe
+A:\Projects\WinFormsChatClient\WinFormsChatClient\bin\Debug\WinFormsChatClient.pdb
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.csprojResolveAssemblyReference.cache
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.ClientForm.resources
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.csproj.GenerateResource.cache
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.csproj.CoreCompileInputs.cache
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.exe
+A:\Projects\WinFormsChatClient\WinFormsChatClient\obj\Debug\WinFormsChatClient.pdb
